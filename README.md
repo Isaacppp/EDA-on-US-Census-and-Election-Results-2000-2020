@@ -9,4 +9,4 @@ The EDA is covering:
   4. Data Visualization
   5. An example of asking question on the data (without pre-defined questions)
 
-The dataset is accessible on: https://www.kaggle.com/datasets/minhbtnguyen/us-census-for-election-predictions-20002020
+The dataset: https://www.kaggle.com/datasets/minhbtnguyen/us-census-for-election-predictions-20002020
