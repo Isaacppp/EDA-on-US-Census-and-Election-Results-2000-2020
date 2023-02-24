@@ -1,12 +1,15 @@
-# EDA-on-US-Census-and-Election-Results-2000-2020
+# Fun with Exploratory Data Analysis (EDA)
 
-This is an EDA on the data: US-Census-and-Election-Results 2000-2020
+This repository documents my works on EDA on public data. They are covering:
 
-The EDA is covering:
-  1. Data Cleaning
+  1. Data Processing
   2. Univariate Analysis
   3. Variables Correlation Analysis
   4. Data Visualization
-  5. An example of asking question on the data (without pre-defined questions)
+  5. Business Recommendation
+  6. Actionable Insights
 
-The dataset: https://www.kaggle.com/datasets/minhbtnguyen/us-census-for-election-predictions-20002020
+Datasets:
+
+[US-Census-and-Election-Results 2000-2020](https://www.kaggle.com/datasets/minhbtnguyen/us-census-for-election-predictions-20002020)
+2023-02/24 [Global Video Game Sales Ratings](https://www.kaggle.com/datasets/thedevastator/global-video-game-sales-ratings)
