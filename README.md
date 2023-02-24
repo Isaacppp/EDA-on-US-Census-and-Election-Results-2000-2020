@@ -1,6 +1,6 @@
 # Fun with Exploratory Data Analysis (EDA)
 
-This repository documents my works on EDA on public data. They are covering:
+This repository documents my works on EDA on public data for fun. They are covering:
 
   1. Data Processing
   2. Univariate Analysis
